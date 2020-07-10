@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Book-Search/static/css/main.f19c4012.chunk.css",
+    "main.js": "/React-Book-Search/static/js/main.21d36853.chunk.js",
+    "main.js.map": "/React-Book-Search/static/js/main.21d36853.chunk.js.map",
+    "runtime-main.js": "/React-Book-Search/static/js/runtime-main.9e16add0.js",
+    "runtime-main.js.map": "/React-Book-Search/static/js/runtime-main.9e16add0.js.map",
+    "static/js/2.1f138b9c.chunk.js": "/React-Book-Search/static/js/2.1f138b9c.chunk.js",
+    "static/js/2.1f138b9c.chunk.js.map": "/React-Book-Search/static/js/2.1f138b9c.chunk.js.map",
+    "index.html": "/React-Book-Search/index.html",
+    "precache-manifest.146bc1b33b7179c2d27114f8c1e59456.js": "/React-Book-Search/precache-manifest.146bc1b33b7179c2d27114f8c1e59456.js",
+    "service-worker.js": "/React-Book-Search/service-worker.js",
+    "static/css/main.f19c4012.chunk.css.map": "/React-Book-Search/static/css/main.f19c4012.chunk.css.map",
+    "static/js/2.1f138b9c.chunk.js.LICENSE.txt": "/React-Book-Search/static/js/2.1f138b9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e16add0.js",
+    "static/js/2.1f138b9c.chunk.js",
+    "static/css/main.f19c4012.chunk.css",
+    "static/js/main.21d36853.chunk.js"
+  ]
+}
