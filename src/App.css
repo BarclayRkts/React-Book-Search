@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
 .App-logo {
@@ -35,4 +36,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Display{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  
+}
+
+input[type=text] {
+  background-position: 9px 10px;
+  background-repeat: no-repeat;
+  padding-left: 50px;  
+  text-align: center;
+}
+
+button{
+  display:inline-block;
+  padding:0.5em 3em;
+  border:0.16em solid #FFFFFF;
+  margin:0 0.3em 0.3em 0;
+  box-sizing: border-box;
+  text-decoration:none;
+  text-transform:uppercase;
+  font-family:'Roboto',sans-serif;
+  font-weight:400;
+  color:#FFFFFF;
+  text-align:center;
+  transition: all 0.15s;
+  background-color: black;
+  }
+  button:hover{
+  color:#DDDDDD;
+  border-color:#DDDDDD;
+  }
+  button:active{
+  color:#BBBBBB;
+  border-color:#BBBBBB;
+  }
+input{
+  padding: 8px;
+}
+
+.inputBox{
+  margin: 30px;
 }
